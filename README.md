@@ -1,4 +1,4 @@
-PSMinesweeperAccepenceTests
+PowerShellMinesweeperKata
 ===========================
 
-Minesweeper Kata Accepence Tests for Pester (https://github.com/pester/Pester)
+Minesweeper Kata Accepence Tests for use with Pester (https://github.com/pester/Pester)
